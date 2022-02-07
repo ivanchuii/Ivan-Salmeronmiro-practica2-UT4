@@ -1,0 +1,23 @@
+<?xml version=”1.0” encoding=”UTF-8”?>
+<rss version=”2.0”>
+    <channel>
+		<title>ELPAIS.com – Sección Tecnología</title> 
+		<link>www.elpais.com</link>
+		<description>Noticias de la tecnologia</description>
+        <item>
+            <title>Sony empieza...</title>
+            <link>www.elpais.com/sony</link>
+		    <description>Sony ha emepazado a restaurar...</description> 
+        </item>
+        <item>
+            <title>El código...</title>
+            <link>www.elpais.com/codigo</link>
+		    <description>En el reino...</description>  
+        </item>
+        <item>
+            <title>Google maneja...</title>
+            <link>www.elpais.com/Google</link>
+		    <description>Blogger no es...</description>
+        </item>
+	</channel>
+</rss>
